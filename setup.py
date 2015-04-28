@@ -28,6 +28,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'requests',
+        'requests-cache'
     ],
     tests_require=[],
     entry_points=\
